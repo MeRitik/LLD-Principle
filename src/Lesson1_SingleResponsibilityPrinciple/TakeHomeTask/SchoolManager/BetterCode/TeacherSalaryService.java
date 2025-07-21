@@ -1,4 +1,4 @@
-package Lesson1_SingleResponsibilityPrinciple.TakeHomeTask.OrderProcessor.SchoolManager.BetterCode;
+package Lesson1_SingleResponsibilityPrinciple.TakeHomeTask.SchoolManager.BetterCode;
 
 public class TeacherSalaryService {
 

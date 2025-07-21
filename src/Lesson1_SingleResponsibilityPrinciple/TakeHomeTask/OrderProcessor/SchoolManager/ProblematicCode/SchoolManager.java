@@ -1,4 +1,4 @@
-package Lesson1_SingleResponsibilityPrinciple.TakeHomeTask;
+package Lesson1_SingleResponsibilityPrinciple.TakeHomeTask.OrderProcessor.SchoolManager.ProblematicCode;
 // Read the code and try to figure out whether it complies to SRP or not ? And If not then how can we refactor ?
 class Student {
     // .. some properties

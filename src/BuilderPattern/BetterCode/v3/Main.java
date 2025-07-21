@@ -1,4 +1,4 @@
-package Pattern1.BetterCode.v3;
+package BuilderPattern.BetterCode.v3;
 
 public class Main {
     public static void main(String[] args) {

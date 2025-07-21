@@ -1,4 +1,4 @@
-package Pattern1.BetterCode.v3;
+package BuilderPattern.BetterCode.v3;
 
 import java.util.HashMap;
 import java.util.List;

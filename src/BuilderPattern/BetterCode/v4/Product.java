@@ -1,4 +1,4 @@
-package Pattern1.BetterCode.v4;
+package BuilderPattern.BetterCode.v4;
 
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package Pattern1.ProblematicCode;
+package BuilderPattern.ProblematicCode;
 
 import java.util.ArrayList;
 import java.util.List;

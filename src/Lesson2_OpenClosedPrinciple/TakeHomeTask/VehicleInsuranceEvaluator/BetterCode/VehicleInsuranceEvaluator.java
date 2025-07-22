@@ -1,20 +1,4 @@
-package Lesson2_OpenClosedPrinciple.TakeHomeTask;
-
-class InsuranceQuote {
-
-}
-
-class Vehicle {
-
-}
-
-class Car extends Vehicle {
-
-}
-
-class Truck extends Vehicle {
-
-}
+package Lesson2_OpenClosedPrinciple.TakeHomeTask.VehicleInsuranceEvaluator.BetterCode;
 
 public class VehicleInsuranceEvaluator {
 

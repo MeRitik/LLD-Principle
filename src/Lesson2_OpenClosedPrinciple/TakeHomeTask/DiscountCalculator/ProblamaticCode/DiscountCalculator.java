@@ -1,16 +1,17 @@
-package Lesson2_OpenClosedPrinciple.TakeHomeTask;
+package Lesson2_OpenClosedPrinciple.TakeHomeTask.DiscountCalculator.ProblamaticCode;
 
- enum ProductType {
+enum ProductType {
     ELECTRONICS,
-     CLOTHING;
+    CLOTHING;
 }
 
 class Product {
     ProductType type;
     double price;
-     double getPrice() {
-         return price;
-     }
+
+    double getPrice() {
+        return price;
+    }
 
     ProductType getType() {
         return type;
